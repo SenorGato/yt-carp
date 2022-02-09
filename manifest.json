@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "youtube-chop",
+  "version": "0.01",
+  
+  "description": "Youtube -> Yt-DLP -> BSPWM -> MPV -> YOU",
+
+  "content_scripts": [
+          {
+            "matches": ["*.youtube.com"],
+            "js": ["yt-carp.js"]
+          }
+  ],
+  "permissions": [
+          "tabs",
+          "activeTab"
+  ]
+}
