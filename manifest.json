@@ -1,18 +1,19 @@
 {
   "manifest_version": 2,
-  "name": "youtube-chop",
+  "name": "youtube-carp",
   "version": "0.01",
   
-  "description": "Youtube -> Yt-DLP -> BSPWM -> MPV -> YOU",
+  "description": "A better UI",
 
   "content_scripts": [
           {
-            "matches": ["*.youtube.com"],
+            "matches": ["<all_urls>"],
             "js": ["yt-carp.js"]
           }
   ],
   "permissions": [
           "tabs",
+          "webRequestBlocking",
           "activeTab"
   ]
 }

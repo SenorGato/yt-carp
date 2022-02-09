@@ -2,7 +2,7 @@
 Firefox -> Youtube -> yt-DLP -> MPV -> BSPWM
 
 
-<br>vwebRequest API: onBeforeRequest<br>
+<br>webRequest API: onBeforeRequest<br>
 Silence forward, capture link, send to server<br>
 On receipt, call yt-DLP with current settings<br>
 Fetch video, make MPV call<br>
