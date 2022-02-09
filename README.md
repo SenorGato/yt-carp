@@ -2,16 +2,16 @@
 Firefox -> Youtube -> yt-DLP -> MPV -> BSPWM
 
 
-webRequest API: onBeforeRequest
-Silence forward, capture link, send to server
-On receipt, call yt-DLP with current settings
-Fetch video, make MPV call
-
-Possible features:
-Cache the first minute of the video so it loads faster.
-Pull metadata so you can render it below the video
-Build playlist feature to left of video.
-Settings on click/<C-click> that allow you to choose destiniation:
-Send to Drive/Playlist/MPV
-Possibly expand for pathing and sorting of videos on drive.
-Using yt-DLP to auto download videos and build playlists?
+<br>vwebRequest API: onBeforeRequest<br>
+Silence forward, capture link, send to server<br>
+On receipt, call yt-DLP with current settings<br>
+Fetch video, make MPV call<br>
+<br>
+Possible features:<br>
+Cache the first minute of the video so it loads faster.<br>
+Pull metadata so you can render it below the video.<br>
+Build playlist feature to left of video.<br>
+Settings on click/<C-click> that allow you to choose destiniation:<br>
+Send to Drive/Playlist/MPV<br>
+Possibly expand for pathing and sorting of videos on drive.<br>
+Using yt-DLP to auto download videos and build playlists?<br>
