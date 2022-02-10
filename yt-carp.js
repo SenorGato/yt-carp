@@ -1,4 +1,14 @@
-console.log("Hack the planet!");
+console.log("Console script loaded.");
+
+
+//function logURL(requestDetails) {
+//  console.log("Loading: " + requestDetails.url);
+//}
+//
+//browser.webRequest.onBeforeRequest.addListener(
+//  logURL,
+//  {urls: ["<all_urls>"]}
+//);
 
 //let pattern = "https://www.youtube.com/watch?v=*";
 //
@@ -14,13 +24,3 @@ console.log("Hack the planet!");
 //    {urls: ["<all_urls>"]},
 //  ["blocking"]
 //);
-
-function logURL(requestDetails) {
-  console.log("Loading: " + requestDetails.url);
-}
-
-browser.webRequest.onBeforeRequest.addListener(
-  logURL,
-  {urls: ["<all_urls>"]}
-);
-

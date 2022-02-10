@@ -1,19 +1,19 @@
 {
-  "manifest_version": 2,
-  "name": "youtube-carp",
-  "version": "0.01",
+    "manifest_version": 2,
+    "name": "youtube-carp",
+    "version": "0.01",
   
-  "description": "A better UI",
+    "description": "A better UI",
 
-  "content_scripts": [
-          {
-            "matches": ["<all_urls>"],
-            "js": ["yt-carp.js"]
-          }
-  ],
-  "permissions": [
-          "tabs",
-          "webRequestBlocking",
-          "activeTab"
-  ]
+    "background": {
+    "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "*://*.youtube.com/*?*",
+        "tabs",
+        "webRequest",
+        "webRequestBlocking",
+        "activeTab"
+    ]
 }

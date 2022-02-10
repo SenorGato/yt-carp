@@ -1,0 +1,21 @@
+https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/api/stats/qoe?fmt=302&afmt=251&cpn=K…bwe=0.011:3869535&vis=0.011:0&cmt=0.011:0.000&bh=0.011:0.000 background.js:9:13
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/api/stats/playback?ns=yt&el=detailpa…FrT0lZT3d2cnNHRUxSa1NoWWFvREhidEFvV2JFYnNWTy1NTFJaS2VtZS16UQ background.js:9:13
+https://www.youtube.com/ptracking?html5=1&video_id=bnDLyQIdi…oh2DW9XlruyFE6oP2dT_7vuqNVQPYQNN25W9AKDgt3Z0Ym9tOzIqvHHO_SMwy
+
+
+https://www.youtube.com/youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/api/stats/qoe?fmt=302&afmt=251&cpn=K…27:0.352&bwe=49.866:602170&cmt=49.866:0.049&bh=49.866:59.952 background.j:9:13
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailp…FrT0lZT3d2cnNHRUxSa1NoWWFvREhidEFvV2JFYnNWTy1NTFJaS2VtZS16UQ background.js:9:13
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/youtubei/v1/player?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/youtubei/v1/next?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 background.js:9:13
+https://www.youtube.com/api/stats/qoe?fmt=302&afmt=251&cpn=P…bwe=0.007:2084609&vis=0.007:0&cmt=0.007:0.000&bh=0.007:0.000 background.js:9:13
+https://www.youtube.com/api/stats/playback?ns=yt&el=detailpa…1UQkNxRGJhTlpmWDdaMXdGMTgtbEVIQnpJdnJRNGRrUnFBaUMwbTFXcm5HRQ background.js:9:13
+https://www.youtube.com/ptracking?html5=1&video_id=5tR2ULoUV…xRl7jOooYgvf-IPtnlEk7clOZ6UIC3eTZ-eySofGVu8i6auWqKUKRjadVYaq background.js:9:13
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailp…1UQkNxRGJhTlpmWDdaMXdGMTgtbEVIQnpJdnJRNGRrUnFBaUMwbTFXcm5HRQ background.js:9:13
+https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8s
